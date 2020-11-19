@@ -78,9 +78,8 @@ Structure of columns:
 
 As with any project, the libraries and tools to achieve the tasks were imported in first place. Since getting to know the data is one of the first things to do, the MySQL tasks were chosen to be worked on as introduction. As a start, the dataset was worked on MySQLWorkbench then later the dataset was brought to Jupyter Notebook thorugh a connector. The process was throughly evidenced with screenshots and attached to the Notebook. After the completion of the MySQL tasks, the data was throughly explored and understood with EDA, several correlation matrixes and visuals were produced in order to identify possible outliers or columns that needed to be modified. As a result outlier values were identified and categorical columns were understood and transformed, firstly binned and then dummies of these columns were obtained in order to be normalized and be useful for building the linear regression model. The process of the model was quite straight forward, for the purpose of compliance with deadline, the model was thorughly built, it is to be noted that variations in the adjusted R squared were obtained, the model could be optimized. 
 
+Link to Tableau public: https://public.tableau.com/profile/charlotte.velilla
 
-
- 
 ## Review
 
 
