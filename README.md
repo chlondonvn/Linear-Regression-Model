@@ -34,45 +34,45 @@ Structure of columns:
 
   -id :a notation for a house
   
-  -date: Date house was sold
+  -date: date house was sold
   
-  -price: Price is prediction target
+  -price: price is prediction target
   
-  -bedrooms: Number of Bedrooms/House
+  -bedrooms: number of Bedrooms/House
   
-  -bathrooms: Number of bathrooms/bedrooms
+  -bathrooms: number of bathrooms/bedrooms
   
   -sqft_living: square footage of the home
   
   -sqft_lot: square footage of the lot
   
-  -floors :Total floors (levels) in house
+  -floors: total floors (levels) in house
   
-  -waterfront :House which has a view to a waterfront
+  -waterfront: house which has a view to a waterfront
   
-  -view: Has been viewed
+  -view: has been viewed
   
-  -condition :How good the condition is Overall
+  -condition: how good the condition is Overall
   
   -grade: overall grade given to the housing unit, based on King County grading system
   
-  -sqft_above :square footage of house apart from basement
+  -sqft_above: quare footage of house apart from basement
   
   -sqft_basement: square footage of the basement
   
-  -yr_built :Built Year
+  -yr_built: built Year
   
-  -yr_renovated :Year when house was renovated
+  -yr_renovated: year when house was renovated
   
-  -zipcode:zip code
+  -zipcode: zip code
   
-  -lat: Latitude coordinate
+  -lat: latitude coordinate
   
-  -long: Longitude coordinate
+  -long: longitude coordinate
   
-  -sqft_living15 :Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
+  -sqft_living15: living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
   
-  -sqft_lot15 :lotSize area in 2015(implies-- some renovations)
+  -sqft_lot15: lotSize area in 2015(implies-- some renovations)
 
 ## Workflow:
 
